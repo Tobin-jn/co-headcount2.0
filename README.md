@@ -8,7 +8,7 @@ By bringing in multiple types of data sets, users will be able to see varying ca
 
 ### See it Live
 
-[CO Headcount2.0](https://tobin-jn.github.io/CO-headcount-2.0/) deployed site.
+[CO Headcount2.0](https://tobin-jn.github.io/CO-headcount-2.0/) deployed site
 
 ### Primary JavaScript Technologies Used
 
