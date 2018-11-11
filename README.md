@@ -4,7 +4,7 @@ CO Headcount2.0 takes in data pertaining to school districts in Colorado. The si
 
 ### Future Iterations
 
-By bringing in multiple types of data sets, users will be able to see varying categories for data as well as multiple options for comparison.
+By bringing in multiple types of data sets, users will be able to see varying categories of data as well as multiple options for deeper comparison.
 
 ### See it Live
 
@@ -16,11 +16,11 @@ By bringing in multiple types of data sets, users will be able to see varying ca
 
 ### Screenshots
 
-#### Landing Page:
+#### Main View:
 
 ![alt text](image.jpg)
 
-#### Whatever Page:
+#### Comparison:
 
 ![alt text](image.jpg)
 
