@@ -18,11 +18,11 @@ By bringing in multiple types of data sets, users will be able to see varying ca
 
 #### Main View:
 
-![alt text](image.jpg)
+<img src='src/images/coheadcount1.png' alt='Main View' width='700' >
 
 #### Comparison:
 
-![alt text](image.jpg)
+<img src='src/images/coheadcount2.png' alt='Comparison' width='700' >
 
 #### Additional Assets:
 
