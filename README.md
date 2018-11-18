@@ -18,13 +18,17 @@ By bringing in multiple types of data sets, users will be able to see varying ca
 
 #### Main View:
 
-<img src='src/images/coheadcount1.png' alt='Main View' width='700' >
+<img src='src/images/landing.png' alt='Main View' width='700' >
+
+<img src='src/images/cards.png' alt='Cards' width='700' >
 
 #### Comparison:
 
-<img src='src/images/coheadcount2.png' alt='Comparison' width='700' >
+<img src='src/images/compare.png' alt='Comparison' width='700' >
 
-#### Additional Assets:
+#### Search:
+
+<img src='src/images/search.png' alt='Search' width='700' >
 
 ### Setup
 #### Frontend
