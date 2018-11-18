@@ -122,6 +122,7 @@ class App extends Component {
     const { stats, analysis, compareData } = this.state
     return (
       <div className='main'>
+
         <div className="header-container">
           <h1 className="header">COLORADO Headcount 2.0</h1>
           <SearchFrom 

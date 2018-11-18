@@ -5,23 +5,30 @@
 
 .header {
   font-family: 'Raleway', sans-serif;
-  color: #0095A9;
-  font-size: 3.5rem;
+  color: #FFF;
+  font-size: 4.5rem;
   text-align: center;
   margin: 0;
-  padding: 25px;
+  padding: 115px 25px 0px 25px;
   letter-spacing: -1.5px;
 }
 
 .header-container {
-  background-color: #F0F8FF;
+  background-color: #FFF292;
+  background: url(./images/mountains.png);
+  background-size: cover;
+  background-position: center;
   margin: 0;
+  height: 280px;
 }
 
 .error-message {
   text-align: center;
   margin: 0;
 }
+
+
+
 
 
 
