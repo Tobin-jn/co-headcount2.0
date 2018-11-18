@@ -124,14 +124,12 @@ class App extends Component {
       <div className='main'>
 
         <div className="header-container">
-          <div className="header-img">
-            <h1 className="header">COLORADO Headcount 2.0</h1>
-            <SearchFrom 
-              filterData={this.filterData} 
-              displayAll={this.displayAll}
-              data={stats} 
-            />
-          </div>
+          <h1 className="header">COLORADO Headcount 2.0</h1>
+          <SearchFrom 
+            filterData={this.filterData} 
+            displayAll={this.displayAll}
+            data={stats} 
+          />
         </div>
 
         { compareData.length > 0 &&

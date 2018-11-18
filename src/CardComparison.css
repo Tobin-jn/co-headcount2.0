@@ -2,7 +2,13 @@
   border: thin solid black;
   width: 65%;
   margin: 0px auto 10px;
+  background-color: #fff;
   
+}
+
+.comparison-box {
+  background-color: #6f9d33;
+  margin-bottom: -10px;
 }
 
 .card-comparison-container {
@@ -46,10 +52,11 @@
 .clear-btn {
   width: 75px;
   height: 28px;
-  border: 1px solid #0095A9;
-  color: #0095A9;
+    border: 2px solid #3d5730;
+    color: #3d5730;
   border-radius: 5px;
   cursor: pointer;
   font-size: 14px;
   font-weight: 600;
 }
+

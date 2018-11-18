@@ -2,12 +2,13 @@
   display: flex;
   justify-content: center;
   padding-bottom: 20px;
+  margin-top: 16px;
 }
  
 .input-search {
   float: left;
   width: 30%;
-  border: 3px solid #0095A9;
+  border: 3px solid #3d5730;
   padding: 5px;
   height: 20px;
   border-radius: 5px;
@@ -26,25 +27,25 @@
 }
 
 .btn-submit-search {
-  width: 60px;
-  height: 36px;
-  border: 1px solid #0095A9;
-  background: #0095A9;
-  text-align: center;
-  color: #fff;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 14px;
-  margin-left: 5px;
+    width: 63px;
+    height: 36px;
+    border: 2px solid #3d5730;
+    background: #fff;
+    text-align: center;
+    color: #3d5730;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 5px;
 }
 
 .btn-display-all {
   width: 100px;
   height: 36px;
-  border: 1px solid #0095A9;
-  background: #0095A9;
+  border: 2px solid #3d5730;
+  background: #fff;
   text-align: center;
-  color: #fff;
+  color: #3d5730;
   border-radius: 5px;
   cursor: pointer;
   font-size: 14px;
