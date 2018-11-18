@@ -122,13 +122,16 @@ class App extends Component {
     const { stats, analysis, compareData } = this.state
     return (
       <div className='main'>
+
         <div className="header-container">
-          <h1 className="header">COLORADO Headcount 2.0</h1>
-          <SearchFrom 
-            filterData={this.filterData} 
-            displayAll={this.displayAll}
-            data={stats} 
-          />
+          <div className="header-img">
+            <h1 className="header">COLORADO Headcount 2.0</h1>
+            <SearchFrom 
+              filterData={this.filterData} 
+              displayAll={this.displayAll}
+              data={stats} 
+            />
+          </div>
         </div>
 
         { compareData.length > 0 &&
