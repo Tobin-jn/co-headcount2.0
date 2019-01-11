@@ -1,5 +1,6 @@
 # CO HeadCount2.0
 
+### About
 CO Headcount2.0 takes in data pertaining to school districts in Colorado. The site looks at Kindergarten enrollment data and allows for comparisons over time. Users can search for a specific school district. Selections can be made to make a comparison between two districts. Selections are toggled on and off via a click.
 
 ### See it Live
