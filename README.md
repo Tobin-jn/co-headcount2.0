@@ -2,19 +2,17 @@
 
 CO Headcount2.0 takes in data pertaining to school districts in Colorado. The site looks at Kindergarten enrollment data and allows for comparisons over time. Users can search for a specific school district. Selections can be made to make a comparison between two districts. Selections are toggled on and off via a click.
 
-### Future Iterations
-
-By bringing in multiple types of data sets, users will be able to see varying categories of data as well as multiple options for deeper comparison.
-
 ### See it Live
 
 [CO Headcount2.0](https://tobin-jn.github.io/CO-headcount-2.0/) deployed site
 
-### Primary JavaScript Technologies Used
+### Tech Stack
 
 * React
+* Jest
+* Enzyme
 
-### Screenshots
+## Screenshots
 
 #### Main View:
 
@@ -30,7 +28,7 @@ By bringing in multiple types of data sets, users will be able to see varying ca
 
 <img src='src/images/search.png' alt='Search' width='700' >
 
-### Setup
+## Setup
 #### Frontend
 
 Clone the repo
@@ -39,16 +37,19 @@ Run ```npm install``` from the root directory
 
 Run ```npm start``` and visit localhost:3000 in your browser
 
-
 ### Test Driven Development
 
 CO Headcount2.0 uses Jest and Enzyme for frontend testing
 
 Run with ```npm test``` from the root directory
 
+### Future Iterations
+
+By bringing in multiple types of data sets, users will be able to see varying categories of data as well as multiple options for deeper comparison.
+
 ### Original Assignment
 
-[Headcount2.0](https://github.com/turingschool-examples/headcount2.0) from the Turing School of Software & Design
+[Headcount2.0](https://github.com/turingschool-examples/headcount2.0) from the [Turing School of Software & Design](https://turing.io/)
 
 ### Contributors
 
