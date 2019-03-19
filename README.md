@@ -5,7 +5,7 @@ CO Headcount2.0 takes in data pertaining to school districts in Colorado. The si
 
 ### See it Live
 
-[CO Headcount2.0](https://tobin-jn.github.io/CO-headcount-2.0/) deployed site
+[CO Headcount2.0](https://tobin-jn.github.io/CO-headcount2.0/) deployed site
 
 ### Tech Stack
 
